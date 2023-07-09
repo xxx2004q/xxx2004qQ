@@ -1,0 +1,11 @@
+echo "# xxx2004qQ" >> README.md
+很热
+git 添加 README.md
+git commit -m“第一次提交”
+git分支-M主
+git 远程添加源 https://github.com/xxx2004q/xxx2004qQ.git
+
+
+
+git push -u 起源主要
+git push -u 起源主要
